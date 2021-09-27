@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Bharat Bodage
+- 👀 I’m interested in coding, traveling
+- 🌱 I’m currently learning Azure
+- 💞️ I’m looking to collaborate on C#, .Net
+- 📫 How to reach me @bharatbodage
